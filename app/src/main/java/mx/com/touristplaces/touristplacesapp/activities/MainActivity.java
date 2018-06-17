@@ -1,7 +1,9 @@
-package mx.com.touristplaces.touristplacesapp;
+package mx.com.touristplaces.touristplacesapp.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import mx.com.touristplaces.touristplacesapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
