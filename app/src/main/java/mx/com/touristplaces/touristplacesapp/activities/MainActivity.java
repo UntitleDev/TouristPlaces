@@ -7,7 +7,7 @@ import android.util.Log;
 import mx.com.touristplaces.touristplacesapp.R;
 
 public class MainActivity extends AppCompatActivity {
-
+	// Hola Api
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
